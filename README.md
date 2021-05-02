@@ -92,4 +92,5 @@ It can be seen in top right corner when the model detects a yawn.
 
 ## Citation
 Cite this paper as:
+
 Srivastava A., Sangwan K.S., Dhiraj (2021) Real-Time Driver Drowsiness Detection Using GRU with CNN Features. In: Singh S.K., Roy P., Raman B., Nagabhushan P. (eds) Computer Vision and Image Processing. CVIP 2020. Communications in Computer and Information Science, vol 1378. Springer, Singapore. https://doi.org/10.1007/978-981-16-1103-2_42
